@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+gradle-wrapper.jar
+gradlew
+gradlew.bat
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub/
+build/
+
+# Generated files
+/captures/
+/GeneratedPluginRegistrant.java
+
+# Keystore files
+**/*.keystore
+**/*.jks
+
+# IntelliJ related files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Android Studio
+/.idea
+/.vscode
+.DS_Store
+# Environment variables
+.env
